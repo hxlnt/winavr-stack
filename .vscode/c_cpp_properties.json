@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "includePath": [
+                "${default}",
+                "C:/WinAVR-20100110/avr/include"
+            ]
+        }
+    ],
+    "version": 4
+}
